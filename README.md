@@ -4,7 +4,7 @@ This repository contains code for training and predicting legal text classificat
 
 ## Table of Contents
 - [Installation](#installation)
-- [Dataset](#dataset)
+- [Files](#files,)
 - [Usage](#usage)
   - [Training](#training)
   - [Prediction](#prediction)
@@ -14,7 +14,7 @@ This repository contains code for training and predicting legal text classificat
 
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/naga24/Legal-Text-Classifier.git
     cd legal_text_classification
     ```
 
@@ -29,10 +29,12 @@ This repository contains code for training and predicting legal text classificat
     ```bash
     pip install -r requirements.txt
     ```
-### Dataset
+    
+### Files
 
-The dataset is sourced from Kaggle. You can it download it here : https://www.kaggle.com/datasets/amohankumar/legal-text-classification-dataset/data OR use the downloaded one in data folder
+1. The dataset is sourced from Kaggle. You can it download it here : https://www.kaggle.com/datasets/amohankumar/legal-text-classification-dataset/data and place it in the [data] folder
 
+2. The trained model can be downloaded from here : https://drive.google.com/file/d/1XpNbgdUgXbwmj9_RMzuBJ6wyvMlsB49Q/view?usp=sharing . Place the trained model in [models] folder to test on a sample text in predict.py
 
 ## Usage
 
