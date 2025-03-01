@@ -15,7 +15,6 @@ This repository contains code for training and predicting legal text classificat
 1. Clone the repository:
     ```bash
     git clone https://github.com/naga24/Legal-Text-Classifier-BERT.git
-    cd legal_text_classification
     ```
 
 2. Create a virtual environment and activate it:
