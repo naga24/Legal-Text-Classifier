@@ -32,15 +32,15 @@ This repository contains code for training and predicting legal text classificat
     
 ### Files
 
-1. The dataset is sourced from Kaggle. You can it download it here : https://www.kaggle.com/datasets/amohankumar/legal-text-classification-dataset/data and place it in the [data] folder
+1. The dataset is sourced from Kaggle. You can it download it here : https://www.kaggle.com/datasets/amohankumar/legal-text-classification-dataset/data and place it in the data folder
 
-2. The trained model can be downloaded from here : https://drive.google.com/file/d/1XpNbgdUgXbwmj9_RMzuBJ6wyvMlsB49Q/view?usp=sharing . Place the trained model in [models] folder to test on a sample text in predict.py
+2. The trained model can be downloaded from here : https://drive.google.com/file/d/1XpNbgdUgXbwmj9_RMzuBJ6wyvMlsB49Q/view?usp=sharing . Place the trained model in models folder to test on a sample text in predict.py
 
 ## Usage
 
 ### Training
 
-To train the model, run the [train.py]:
+To train the model, run the train.py:
 
 ```bash
 python train.py
