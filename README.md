@@ -64,4 +64,4 @@ The training parameters are specified in the config.json file. Here is an exampl
 
 ### License
 
-This project is licensed under the MIT License.T.
+This project is licensed under the MIT License.
