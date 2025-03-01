@@ -3,8 +3,8 @@
 This repository contains code for training and predicting legal text classification using BERT.
 
 ## Table of Contents
-
 - [Installation](#installation)
+- [Dataset](#dataset)
 - [Usage](#usage)
   - [Training](#training)
   - [Prediction](#prediction)
@@ -29,6 +29,10 @@ This repository contains code for training and predicting legal text classificat
     ```bash
     pip install -r requirements.txt
     ```
+### Dataset
+
+The dataset is sourced from Kaggle. You can it download it here : https://www.kaggle.com/datasets/amohankumar/legal-text-classification-dataset/data OR use the downloaded one in data folder
+
 
 ## Usage
 
