@@ -1,4 +1,4 @@
-# Legal Text Classification
+# Legal Text Classification using BERT
 
 This repository contains code for training and predicting legal text classification using BERT.
 
